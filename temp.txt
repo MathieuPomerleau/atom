@@ -1,0 +1,26 @@
+particle fields
+    - particle type
+    - particle info + visuals
+    - quarks visuals
+    - atom visuals
+
+force fields
+    - Particle visuals
+    - Example of force effects
+    - Wave visuals
+
+periodic table
+    - Proton/neutron visuals
+    - Electrons
+    - Element info
+
+Url state
+    - App section (particle/force/periodic)
+    - Subject
+    - View (condensed/3d)
+
+Unknowns:
+    - Math formula visuals (electron cloud?)
+    - Shading + coloring
+    - How to organize sections
+    - Main color palette (white/black + main color)
